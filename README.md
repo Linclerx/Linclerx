@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Linclerx/Linclerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Justin, an aspiring software developer passionate about building elegant and efficient solutions to real-world problems.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently pursuing training as an application developer
+- 🌱 Strong foundation in Java, with solid skills in SQL and Spring Boot
+- 🔍 Exploring ABAP development to broaden my expertise
+
+## What I Do 💡
+
+I thrive on challenges and am constantly exploring new technologies to expand my knowledge. I'm committed to continuous learning and growth, always seeking opportunities to enhance my skills and contribute to impactful projects.
+
+## Let's Connect! 🌟
+
+Let's connect and collaborate on exciting projects! Feel free to reach out and let's build something awesome together.
